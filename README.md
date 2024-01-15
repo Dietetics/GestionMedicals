@@ -29,8 +29,7 @@ Finalement, suivre https://openjfx.io/openjfx-docs/ pour ajuster les configurati
   OU
 En resumer: 
 run -> edit configurations -> ajouter app -> modify option -> add VM -> 
-                    VM: --module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml  
-                    name: Medication.Main
+                    VM: --module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml   et name: Medication.Main
 
 Il faut editer ('PATH_TO_FX') un genre de racourcir pour acceder au sdk
   -> itelliji settings -> Appearance & behavior -> path variables -> + -> ajouter: PATH_TO_FX et le path
