@@ -6,6 +6,11 @@ GestionMedical
 ## Description
 un app pour generer les medications 
 
+## Aperçu
+
+![Image d'aperçu du projet](visuel.png)
+
+
 ## Donnes initiales
 sont dans le fichier csv   (src/Medication/data.txt), a ajuster au besoin, ou just tout supprimer
 
