@@ -7,13 +7,13 @@ GestionMedical
 un app pour generer les medications 
 
 ## Donnes initiales
-sont dans le fichier csv   (src/Medication/data.txt)
+sont dans le fichier csv   (src/Medication/data.txt), a ajuster au besoin, ou just tout supprimer
 
 
 ## Installation
 - Version Java: 8 ou superieure
 - librairies externes a telecharger: https://www.oracle.com/java/technologies/install-javafx-sdk.html
-- 
+  
 
 
 ## Execution
